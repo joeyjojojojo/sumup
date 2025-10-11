@@ -1,2 +1,1 @@
-# sumup
-to sum up
+# script
